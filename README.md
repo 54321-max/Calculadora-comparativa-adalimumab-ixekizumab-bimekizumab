@@ -1,0 +1,1 @@
+# Calculadora-comparativa-adalimumab-ixekizumab-bimekizumab
