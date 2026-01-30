@@ -1,0 +1,15 @@
+{
+  "features": [
+    "Sexo",
+    "edad",
+    "IMC",
+    "ARTRITIS PSORIASICA",
+    "años con psoriasis",
+    "N biológicos previos",
+    "PASI INICIAL IXE"
+  ],
+  "models": {
+    "PASI75_w16": "models_ixe\\ixe_PASI75_w16.joblib",
+    "PASI90_w16": "models_ixe\\ixe_PASI90_w16.joblib"
+  }
+}
